@@ -1,0 +1,9 @@
+system:index,FloodArea,LULC,.geo
+0,0.03170631372549,Tree Cover,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,3.2701727843134623,Shrubland,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,27.721360352939968,Grassland,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,4.026334980392381,Cropland,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,0.0012,Built-up,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,20.596251568626666,Bare/Sparse Vegetation,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,0.23513615686274703,Permanent Water Bodies,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,1.0569427058823366,Herbaceous Wetland,"{""type"":""MultiPoint"",""coordinates"":[]}"
