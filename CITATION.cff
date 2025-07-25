@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "afar_region_flood_mapping"
+authors:
+  - family-names: Abdulahi
+    given-names: Mohammed
+    affiliation: Haramaya University
+    email: mohammed.mussa@haramaya.edu.et
+  - family-names: Bora
+    given-names: Zinabu
+    affiliation: National Engineering Technology Research Center for Desert-Oasis Ecological Construction, Xinjiang Institute of Ecology and Geography, Chinese Academy of Sciences
+    email: zinabubora@ms.xjb.ac.cn
+    alternate-emails:
+      - zinabu_bora@yahoo.com
+date-released: 2025-07-25
+version: "1.0"
+repository-code: https://github.com/GoogleEarthEngine-HrU/afar_region_flood_mapping
